@@ -1,1 +1,28 @@
-project idea
+<! DOCTYPE html>
+<main>
+    <h1>Sea Turtles: Why we need to Protect Them</h1>
+<section>
+    <p>Turtles have been around for 220 million years. It's time to do our part to protect them and their ecosystem.
+        My website will include one page containing very important information about Sea Turtles, my second page will contain information about why they are endangered, and my last page will be focused on how to do our part to save them. <p>
+</section>
+<article>
+    <h1>About Sea Turtles</h1>
+    <p>Sea Turtles live all over the world in almost every type of climate. </p>
+    <section>
+        <h1>NOAA</h1>
+        <p> The National Oceanic and Atmospheric Administration works to improve the conservation of endangered sea turtles. </p>
+        <abbr title="National Oceanic and Atmospheric Administration">NOAA</abbr> includes information about multiple different types of Sea Turtle species.
+        <dl>
+            <dt>Green Turtle</dt>
+            <dd>Hawksbill Turtle</dd>
+            <dt>Kemp's Ridley Turtle</dt>
+            <dd>Leatherback Turtle</dd>
+            <dt>Loggerhead Turtle</dt>
+            <dd>Olive Ridley Turtle</dt>
+        <p>I plan on getting most of my information from Google.</p>
+    </section>
+<h2>Why Sea Turtles need our help</h1>
+<h3>How we can make a difference</h3>
+</article>
+
+</main>
