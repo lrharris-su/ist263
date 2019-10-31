@@ -1,0 +1,13 @@
+img {
+    width: 50%;
+    height: auto;
+
+}
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: navy;
+    margin-left: 20px;
+  }
