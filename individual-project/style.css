@@ -89,8 +89,13 @@ h3 {
 
 .card {
     background-color: lightblue;
+    margin: 0.15em
 }
 
 p a {
     color: purple;
+}
+
+.card img {
+    width: 100% ;
 }
